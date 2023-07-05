@@ -1,0 +1,17 @@
+{
+  "name": "ts-playground",
+  "version": "1.0.0",
+  "description": "personal typescript playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "rainier letidjawa",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
